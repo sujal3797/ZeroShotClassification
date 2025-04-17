@@ -1,0 +1,1 @@
+When trained on 90 classes and predicting unseen Classes -> Accuracy of 94-95%, Model Training Time = 2.5hr,
